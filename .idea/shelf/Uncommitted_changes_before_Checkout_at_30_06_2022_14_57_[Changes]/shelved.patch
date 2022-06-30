@@ -1,0 +1,20 @@
+Index: Readme.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>it's a sample project for githab training\r\n\r\n\r\nWi just commit HTML to train in our git accaunt. \r\n\r\ndsfvsdggbd
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1251
+===================================================================
+diff --git a/Readme.md b/Readme.md
+--- a/Readme.md	(revision 0404f5ad052f2b6d5deacf563ceffff3ad7f5273)
++++ b/Readme.md	(date 1656575807133)
+@@ -3,4 +3,6 @@
+ 
+ Wi just commit HTML to train in our git accaunt. 
+ 
+-dsfvsdggbd
+\ No newline at end of file
++dsfvsdggbd
++hgjgjgh
++fhgdfhdfhd
+\ No newline at end of file
